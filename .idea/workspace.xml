@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a562f48-96df-4d41-a651-5f39d5cc222d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Snake" />
+  </component>
+  <component name="ProjectId" id="1i3DhCO79pdCSltVO9wysc9aSg4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Snake" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a562f48-96df-4d41-a651-5f39d5cc222d" name="Default Changelist" comment="" />
+      <created>1601127499115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601127499115</updated>
+      <workItem from="1601127500339" duration="22117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1018" y="518" key="#Notifications" timestamp="1601158948837">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state x="1018" y="518" key="#Notifications/0.0.2560.1386@0.0.2560.1386" timestamp="1601158948837" />
+    <state x="1041" y="561" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601129095521">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state x="1041" y="561" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1386@0.0.2560.1386" timestamp="1601129095521" />
+    <state x="1068" y="437" key="FileChooserDialogImpl" timestamp="1601159151693">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state x="1068" y="437" key="FileChooserDialogImpl/0.0.2560.1386@0.0.2560.1386" timestamp="1601159151693" />
+    <state x="1157" y="593" width="361" height="209" key="Github.ShareDialog" timestamp="1601159035972">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state x="1157" y="593" width="361" height="209" key="Github.ShareDialog/0.0.2560.1386@0.0.2560.1386" timestamp="1601159035972" />
+    <state x="781" y="328" key="SettingsEditor" timestamp="1601127545913">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state x="781" y="328" key="SettingsEditor/0.0.2560.1386@0.0.2560.1386" timestamp="1601127545913" />
+  </component>
+</project>
